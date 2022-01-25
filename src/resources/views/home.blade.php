@@ -14,7 +14,8 @@
                         </div>
                     @endif
 
-                    {{ __('You are logged in!') }}
+                    <!-- {{ __('You are logged in!') }} -->
+                    {{ __('Welcome to Borneo Tribal Village Online Booking System!') }}
                 </div>
             </div>
         </div>
